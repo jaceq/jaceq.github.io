@@ -56,8 +56,9 @@ type-speed: 5
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "AWS? GCP? Terraform?"
   - text: "Got it covered!"
+  # Not a clue why this has to be reversed...
+  - text: "AWS? GCP? Terraform?"
 
 me-img: "/img/jacek_square_mini.jpg"
 
